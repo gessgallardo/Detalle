@@ -242,17 +242,3 @@
 	}
 	
 })();
-
-
-//Hay que buscar como implementar esto :/
-
-/*
-inputFile.change(function(e){
-		readURL(this, "previewZone");
-	});
-	
-	fileBtn.click(function(){
-		inputFile.click();
-	})
-	
-*/
